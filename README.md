@@ -2,12 +2,12 @@
 
 - ☁️ **Cloud & DevOps**: AWS, Kubernetes, Docker, DevOps  
 - 🗄 **Databases**: SQL & NoSQL (PostgreSQL, SQL Server, MongoDB, Redis)  
-- 🔐 **Cybersecurity** with NIST standards  
 - ⛓ **Blockchain**: Hyperledger, Solidity  
 - 🖥 **API Development** (REST/SOA) & Microservices  
 - 💻 **Languages**: Node.js, Go, PHP (Laravel, Lumen)  
 - ⚙️ **Infrastructure**: Shell scripting, Git, GraphQL  
-- 🏗 **Cloud Architecture Patterns**  
+- 🏗 **Cloud Architecture Patterns**
+- 🔐 **Cybersecurity** Blue Team (Defense, Detection & Response) 
 - 🐧 **Operating Systems**: Linux  
 
 ---

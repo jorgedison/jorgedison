@@ -1,13 +1,14 @@
 # Hi 👋, I'm Jorge Rodriguez
 
-- ☁️ **Cloud & DevOps**: AWS, Kubernetes, Docker, DevOps  
-- 🗄 **Databases**: SQL & NoSQL (PostgreSQL, SQL Server, MongoDB, Redis)  
-- ⛓ **Blockchain**: Hyperledger, Solidity  
+- ☁️ **Cloud & DevOps**: AWS, IaC, Observability, Chaos Engineering
+- 🏗 **Cloud Architecture Patterns**: High Availability, Fault Tolerance, Serverless
+- ⚙️ **Infrastructure**: Shell scripting, Git, GraphQL, API Integration
 - 🖥 **API Development** (REST/SOA) & Microservices  
 - 💻 **Languages**: Node.js, Go, PHP (Laravel, Lumen)  
-- ⚙️ **Infrastructure**: Shell scripting, Git, GraphQL  
-- 🏗 **Cloud Architecture Patterns**
+- 🗄 **Databases**: SQL & NoSQL (PostgreSQL, MongoDB, CouchDB, Redis)  
+- ⛓ **Blockchain**: Hyperledger, Solidity  
 - 🔐 **Cybersecurity** Blue Team (Defense, Detection & Response) 
+- 📊 **Monitoring & Logging**: Prometheus, Grafana, OpenTelemetry
 - 🐧 **Operating Systems**: Linux  
 
 ---
